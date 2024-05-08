@@ -1,13 +1,9 @@
 package US_105_SiparisListesiKontrolu;
 
-import Utility.BaseDriver;
-import Utility.MyFunc;
-import org.junit.Assert;
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
+import Utility.*;
+import org.junit.*;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 

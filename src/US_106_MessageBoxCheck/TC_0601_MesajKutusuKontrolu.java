@@ -1,12 +1,9 @@
 package US_106_MessageBoxCheck;
 
 import Utility.BaseDriver;
-import org.junit.Assert;
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
+import org.junit.*;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class TC_0601_MesajKutusuKontrolu extends BaseDriver {

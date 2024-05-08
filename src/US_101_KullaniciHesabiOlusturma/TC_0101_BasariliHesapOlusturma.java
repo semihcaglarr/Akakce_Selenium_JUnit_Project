@@ -1,14 +1,10 @@
 package US_101_KullaniciHesabiOlusturma;
 
-import Utility.BaseDriver;
-import Utility.MyFunc;
+import Utility.*;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.*;
+import org.openqa.selenium.support.ui.*;
 
 public class TC_0101_BasariliHesapOlusturma extends BaseDriver {
     @Test

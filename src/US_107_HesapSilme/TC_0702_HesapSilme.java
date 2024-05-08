@@ -2,9 +2,7 @@ package US_107_HesapSilme;
 
 import Utility.BaseDriver;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 
 import java.util.List;
 

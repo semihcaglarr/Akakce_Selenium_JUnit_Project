@@ -1,12 +1,9 @@
 package US_102_HesapDogrulamaKontrolu;
 
-import Utility.BaseDriver;
-import Utility.MyFunc;
+import Utility.*;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class TC_0201_HesapDogrulama extends BaseDriver {

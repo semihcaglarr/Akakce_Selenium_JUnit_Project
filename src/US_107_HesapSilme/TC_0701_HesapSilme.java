@@ -1,11 +1,8 @@
 package US_107_HesapSilme;
 
 import Utility.BaseDriver;
-import org.junit.Assert;
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
+import org.junit.*;
+import org.openqa.selenium.*;
 
 public class TC_0701_HesapSilme extends BaseDriver {
     @Test
